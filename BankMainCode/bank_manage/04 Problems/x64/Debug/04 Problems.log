@@ -1,0 +1,5 @@
+﻿  04 Problems.cpp
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(49,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(31,1): warning C4715: 'TextNum': not all control paths return a value
+  04 Problems.vcxproj -> C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\x64\Debug\04 Problems.exe

@@ -1,0 +1,14 @@
+﻿  04 Problems.cpp
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\Lab.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '04%20Problems.cpp')
+  
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\Lab.h(563,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '04%20Problems.cpp')
+  
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(12,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(15,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\Lab.h(510,1): warning C4715: 'std::CheackTimePosition': not all control paths return a value
+C:\Users\MrCOMPUTER\source\repos\04 Problems\04 Problems\04 Problems.cpp(45,1): warning C4715: 'CulucdaysInPeriod': not all control paths return a value
+  04 Problems.vcxproj -> C:\Users\MrCOMPUTER\source\repos\04 Problems\x64\Debug\04 Problems.exe
