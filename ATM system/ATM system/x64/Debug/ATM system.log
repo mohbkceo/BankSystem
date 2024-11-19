@@ -1,0 +1,13 @@
+﻿  ATM system.cpp
+C:\Users\MrCOMPUTER\source\repos\ATM system\ATM system\ATM system.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MrCOMPUTER\source\repos\ATM system\ATM system\Lab.h(70,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM%20system.cpp')
+  
+C:\Users\MrCOMPUTER\source\repos\ATM system\ATM system\Lab.h(98,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM%20system.cpp')
+  
+C:\Users\MrCOMPUTER\source\repos\ATM system\ATM system\Lab.h(101,16): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM%20system.cpp')
+  
+C:\Users\MrCOMPUTER\source\repos\ATM system\ATM system\Lab.h(305,1): warning C4715: 'std::MoneyTransfer': not all control paths return a value
+  ATM system.vcxproj -> C:\Users\MrCOMPUTER\source\repos\ATM system\x64\Debug\ATM system.exe
