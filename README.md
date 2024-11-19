@@ -60,7 +60,7 @@ This repository contains a comprehensive **Bank Management System** built using 
 1. Clone the repository:  
    ```bash
    git clone  https://github.com/mohbkceo/BankSystem.git
-   cd bank_manage
+   cd BankSystem/bank_manage
    ```
 2. Compile the code:  
    ```bash
@@ -68,7 +68,7 @@ This repository contains a comprehensive **Bank Management System** built using 
    ```
 3. Run the application:  
    ```bash
-   ./bank_manage
+   bankCode.cpp
    ```
 
 ---
